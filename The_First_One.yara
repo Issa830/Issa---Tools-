@@ -1,4 +1,3 @@
-import "hash"
 rule The_Basic_One : TheOne{
     meta: 
         Description = "Harmless Malware developed just for experimenting"
